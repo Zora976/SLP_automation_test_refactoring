@@ -1,2 +1,2 @@
-# SLP_automation_test_refactoring
-refactoring existing test
+# SLP_automation_tests
+SLP testing
